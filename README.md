@@ -160,8 +160,10 @@ Include the following screenshots:
 <img width="339" height="338" alt="image" src="https://github.com/user-attachments/assets/868f15a9-b22f-46ad-9230-3185357067d9" />
 
 ###### 5. Successful Submission Page
+<img width="522" height="176" alt="image" src="https://github.com/user-attachments/assets/b045a132-5d32-4b8e-b329-d2ffaef868af" />
 
 ###### 6. MongoDB Atlas Collection Data
+<img width="1919" height="618" alt="image" src="https://github.com/user-attachments/assets/9aebe296-8fa5-410a-ba97-f75541749928" />
 
 
 ###### Requirements
