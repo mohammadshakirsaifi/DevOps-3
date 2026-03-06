@@ -98,12 +98,12 @@ pip install -r requirements.txt
 ```
 ###### MongoDB Atlas Setup
 
-**1. Create an account at**
+###### 1. Create an account at
 https://cloud.mongodb.com
-**2. Create a Cluster**
-**3. Create Database User**
-**4. Allow Network Access (0.0.0.0/0)**
-**5. Copy the connection string**
+###### 2. Create a Cluster
+###### 3. Create Database User
+###### 4. Allow Network Access (0.0.0.0/0)
+###### 5. Copy the connection string
 Example:
 ```txt
 mongodb+srv://username:password@cluster.mongodb.net/?retryWrites=true&w=majority
