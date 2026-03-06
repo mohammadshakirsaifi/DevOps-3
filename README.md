@@ -23,6 +23,7 @@ This project is a simple **Flask web application** that demonstrates:
 ---
 
 ## Project Structure
+```bash
 flask-mongo-app
 │
 ├── app.py
@@ -34,7 +35,7 @@ flask-mongo-app
 │ └── success.html
 │
 └── static
-
+```
 
 ---
 
