@@ -150,6 +150,7 @@ Include the following screenshots:
 
 ###### 1. Project Folder Structure
 <img width="857" height="297" alt="image" src="https://github.com/user-attachments/assets/d1b51c20-5c3e-4363-a42f-2ac9e358ea75" />
+
 ###### 2. Running Flask Server
 <img width="1449" height="357" alt="image" src="https://github.com/user-attachments/assets/d7f6ef4e-f667-4d2c-8976-82ad1a4aaf60" />
 
