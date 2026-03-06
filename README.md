@@ -146,15 +146,19 @@ If any error occurs during MongoDB insertion:
 - User is not redirected
   
 **Screenshots (Add in your submission)**
-
 Include the following screenshots:
 
-**1. Project Folder Structure**
-**2. Running Flask Server**
-**3. API Response (/api)**
-**4. Form Page**
-**5. Successful Submission Page**
-**6. MongoDB Atlas Collection Data**
+###### 1. Project Folder Structure
+
+###### 2. Running Flask Server
+
+###### 3. API Response (/api)
+
+###### 4. Form Page
+
+###### 5. Successful Submission Page
+
+###### 6. MongoDB Atlas Collection Data
 
 
 ###### Requirements
