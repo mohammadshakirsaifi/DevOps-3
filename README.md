@@ -76,7 +76,7 @@ When the form is submitted:
 ###### Installation
 ###### Clone Repository
 ```bash
-git clone https://github.com/yourusername/flask-mongo-app.git
+git clone https://github.com/mohammadshakirsaifi/DevOps-3.git
 cd flask-mongo-app
 ```
 ###### Create Virtual Environment
@@ -168,9 +168,7 @@ Include the following screenshots:
 ###### 6. MongoDB Atlas Collection Data
 <img width="1919" height="618" alt="image" src="https://github.com/user-attachments/assets/9aebe296-8fa5-410a-ba97-f75541749928" />
 
-
 ###### Requirements
-
 Example requirements.txt
 ```txt
 Flask
@@ -179,7 +177,6 @@ dnspython
 GitHub Repository
 ```
 Example repository link:
-
 https://github.com/mohammadshakirsaifi/DevOps-3.git
 ###  Author
 Mohammad Shakir
