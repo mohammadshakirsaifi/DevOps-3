@@ -149,12 +149,15 @@ If any error occurs during MongoDB insertion:
 Include the following screenshots:
 
 ###### 1. Project Folder Structure
-
+<img width="857" height="297" alt="image" src="https://github.com/user-attachments/assets/d1b51c20-5c3e-4363-a42f-2ac9e358ea75" />
 ###### 2. Running Flask Server
+<img width="1449" height="357" alt="image" src="https://github.com/user-attachments/assets/d7f6ef4e-f667-4d2c-8976-82ad1a4aaf60" />
 
 ###### 3. API Response (/api)
+<img width="351" height="454" alt="image" src="https://github.com/user-attachments/assets/d615b132-f806-4471-824f-880c8dfe0aa2" />
 
 ###### 4. Form Page
+<img width="339" height="338" alt="image" src="https://github.com/user-attachments/assets/868f15a9-b22f-46ad-9230-3185357067d9" />
 
 ###### 5. Successful Submission Page
 
