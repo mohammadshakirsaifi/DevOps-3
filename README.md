@@ -153,6 +153,8 @@ Include the following screenshots:
 ###### 2. Running Flask Server
 <img width="1449" height="357" alt="image" src="https://github.com/user-attachments/assets/d7f6ef4e-f667-4d2c-8976-82ad1a4aaf60" />
 
+<img width="1460" height="312" alt="image" src="https://github.com/user-attachments/assets/98aedea3-287d-4251-9b8e-dbe9d19a001e" />
+
 ###### 3. API Response (/api)
 <img width="351" height="454" alt="image" src="https://github.com/user-attachments/assets/d615b132-f806-4471-824f-880c8dfe0aa2" />
 
